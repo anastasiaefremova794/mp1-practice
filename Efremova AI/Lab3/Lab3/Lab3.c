@@ -7,8 +7,8 @@
 
 int main() {
     int dlina_chisla, byki = 0, korovy = 0;
-    char zagadanoe_chislo[6]; // Ispravleno: massiv simvolov dostatochnogo razmera
-    char popytka[6]; // Ispravleno: massiv simvolov dostatochnogo razmera
+    char zagadanoe_chislo[6]; 
+    char popytka[6]; 
 
     do {
         printf("Vyberite dlinu zagadyvayemogo chisla n (ot 2 do 5): ");
